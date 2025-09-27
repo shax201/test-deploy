@@ -1,0 +1,4 @@
+[install]
+# Use the root tsconfig.json as the default TypeScript configuration
+[install.tsconfig]
+# Prefer the root tsconfig.json over backend/tsconfig.json
